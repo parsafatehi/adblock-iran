@@ -1,15 +1,23 @@
 # adblock-iran
-Ad blocking rules for iranian/persian websites.  Works with ![AdblockPlus](https://i.imgur.com/kPRCfhu.png) [Adblock Plus](https://adblockplus.org/) and ![uBockO](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock) plugins.
+Ad blocking rules for iranian/persian websites + eNamad.  Works with ![AdblockPlus](https://i.imgur.com/kPRCfhu.png) [Adblock Plus](https://adblockplus.org/) and ![uBockO](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock) plugins.
 
 
 ## Installation
 
-If using **uBlock₀**, add following line to your custom filters under `Preferences -> 3rd-party filers -> Custom`:
+If using **uBlock₀**, add following line to your custom filters under `Preferences -> 3rd-party filters -> Custom`:
 
+Original repo + eNamad:
+- https://cdn.statically.io/gh/parsafatehi/adblock-iran/master/filter.txt
+
+Original repo:
 - https://cdn.statically.io/gh/farrokhi/adblock-iran/master/filter.txt
 
 In case of **Adblock Plus**, the list should be added to `Advanced -> Filter lists -> Add filter list via URL` or simply click the below link to import the filter list into ABP.
 
+Original repo + eNamad:
+- https://subscribe.adblockplus.org/?location=[https://gitcdn.xyz/repo/parsafatehi/adblock-iran/master/filter.txt](https://cdn.statically.io/gh/parsafatehi/adblock-iran/master/filter.txt)
+
+Original repo:
 - https://subscribe.adblockplus.org/?location=[https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt](https://cdn.statically.io/gh/farrokhi/adblock-iran/master/filter.txt)
 
 ## Notes
